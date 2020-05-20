@@ -21,3 +21,6 @@ print(female_villagers.shape)
 print(villagers['personality'].value_counts())
 print(male_villagers['personality'].value_counts())
 print(female_villagers['personality'].value_counts())
+
+
+print(items.head(3))
